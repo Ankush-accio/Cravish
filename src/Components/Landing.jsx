@@ -15,10 +15,10 @@ const Landing = () => {
     const navigate = useNavigate()
     
   return (
-    <div className='bg-[#ff5200] h-[100vh]'>
+    <div className='bg-[#db1b1bdd] h-[100vh]'>
        
         <div className='flex justify-between py-12 px-20'>
-            <img src={logo} alt="" className='h-[48px]' />
+        <img src={logo} alt="" className='w-[180px] h-[120px]'  />
 
 
             <div className='flex text-white items-center gap-6'>
